@@ -1,0 +1,1 @@
+import styled from 'styled-components'; export const ColumnRoot=styled.section`min-width:0`; export const ColumnTitle=styled.div`padding:0 10px 14px;p{margin:0;font-size:14px;font-weight:700;line-height:21px}`; export const Cards=styled.div`display:flex;flex-direction:column;gap:12px`;
